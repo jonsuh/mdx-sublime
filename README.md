@@ -1,4 +1,4 @@
-# MDX Syntax Highlighting for Sublime
+# MDX for Sublime
 
 [MDX](https://github.com/mdx-js/mdx) syntax highlighting support for `.mdx` files in Sublime Text 3.
 
