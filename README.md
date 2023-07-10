@@ -1,3 +1,9 @@
+### This plugin is no longer maintained and has been archived in favor of the [official MDX plugin](https://github.com/SublimeText/MDX).
+
+This original `README` has been preserved for posterity.
+
+---
+
 # MDX for Sublime
 
 [MDX](https://github.com/mdx-js/mdx) syntax highlighting support for `.mdx` files in Sublime Text 3.
